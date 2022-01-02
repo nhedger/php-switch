@@ -2,10 +2,10 @@
 
 ---
 
-**php-switch** is a small utility script that helps you easily run PHP scripts
-with a specific version or to completely switch the default PHP version on your
-system. I use it personally in combination with
-[`shivammathur/php`](https://github.com/shivammathur/homebrew-php).
+**php-switch** is small utility designed to help Homebrew users to either switch
+the default PHP version on their system or to run scripts with a specific PHP
+version. It has been tested in combination with the
+[`shivammathur/php`](https://github.com/shivammathur/homebrew-php) tap.
 
 ## Installation
 
