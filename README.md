@@ -1,4 +1,6 @@
-# `php-switch`
+<img src=".github/banner.png">
+
+---
 
 **php-switch** is a small utility script that helps you easily run PHP scripts
 with a specific version or to completely switch the default PHP version on your
